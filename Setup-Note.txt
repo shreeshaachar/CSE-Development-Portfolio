@@ -1,0 +1,9 @@
+Activity 2 – C/C++ Development Environment Setup
+
+1. I installed Visual Studio Code and the Microsoft C/C++ extension.
+2. I configured GCC so that the terminal could recognize the compiler.
+3. Initially, setting up the development environment was confusing.
+4. I verified GCC and G++ using their version commands.
+5. I created and saved the `hello.c` source file.
+6. I compiled the program using `gcc hello.c -o hello.exe`.
+7. I executed the program successfully and got the output `Hello, World!`.
